@@ -1,4 +1,7 @@
-## NYC Taci Dashboard
+# NYC Taci Dashboard
 
-#### Data modeling
+## Data modeling
+
+![ER Diagram](images/trips_model.svg)
+
 
